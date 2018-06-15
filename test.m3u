@@ -1,0 +1,181 @@
+#EXTM3U
+#EXTINF:-1 group-title="央视",CCTV1HD
+http://121.31.30.90:8085/ysten-business/live/cctv-1/1.m3u8
+#EXTINF:-1 group-title="央视",CCTV2
+http://121.31.30.90:8085/ysten-business/live/cctv-2/1.m3u8
+#EXTINF:-1 group-title="央视",CCTV3HD
+http://121.31.30.90:8085/ysten-business/live/cctv-3/1.m3u8
+#EXTINF:-1 group-title="央视",CCTV4
+http://121.31.30.90:8085/ysten-business/live/cctv-4/1.m3u8
+#EXTINF:-1 group-title="央视",CCTV5HD
+http://121.31.30.90:8085/ysten-business/live/cctv-5/1.m3u8
+#EXTINF:-1 group-title="央视",CCTV5+HD
+http://121.31.30.90:8085/ysten-business/live/hdcctv05plus/1.m3u8
+#EXTINF:-1 group-title="央视",CCTV6HD
+http://121.31.30.90:8085/ysten-business/live/cctv-6/1.m3u8
+#EXTINF:-1 group-title="央视",CCTV7
+http://121.31.30.90:8085/ysten-business/live/cctv-7/1.m3u8
+#EXTINF:-1 group-title="央视",CCTV8HD
+http://121.31.30.90:8085/ysten-business/live/cctv-8/1.m3u8
+#EXTINF:-1 group-title="央视",CCTV9
+http://121.31.30.90:8085/ysten-business/live/cctv-news/1.m3u8
+#EXTINF:-1 group-title="央视",CCTV10
+http://121.31.30.90:8085/ysten-business/live/cctv-10/1.m3u8
+#EXTINF:-1 group-title="央视",CCTV11
+http://121.31.30.90:8085/ysten-business/live/cctv-11/1.m3u8
+#EXTINF:-1 group-title="央视",CCTV12
+http://121.31.30.90:8085/ysten-business/live/cctv-12/1.m3u8
+#EXTINF:-1 group-title="央视",CCTV13
+http://121.31.30.90:8085/ysten-business/live/cctv-13/1.m3u8
+#EXTINF:-1 group-title="央视",CCTV14
+http://121.31.30.90:8085/ysten-business/live/cctv-14/1.m3u8
+#EXTINF:-1 group-title="央视",CCTV15
+http://121.31.30.90:8085/ysten-business/live/cctv-15/1.m3u8
+#EXTINF:-1 group-title="央视",CCTV News
+http://121.31.30.90:8085/ysten-business/live/cctv-9/1.m3u8
+#EXTINF:-1 group-title="卫视",湖南卫视HD
+http://121.31.30.90:8085/ysten-business/live/hdhunanstv/1.m3u8
+#EXTINF:-1 group-title="卫视",江苏卫视HD
+http://121.31.30.90:8085/ysten-business/live/hdjiangsustv/1.m3u8
+#EXTINF:-1 group-title="卫视",浙江卫视HD
+http://121.31.30.90:8085/ysten-business/live/hdzhejiangstv/1.m3u8
+#EXTINF:-1 group-title="卫视",东方卫视HD
+http://121.31.30.90:8085/ysten-business/live/hddongfangstv/1.m3u8
+#EXTINF:-1 group-title="卫视",广东卫视HD
+http://121.31.30.90:8085/ysten-business/live/hdguangdongstv/1.m3u8
+#EXTINF:-1 group-title="卫视",凤凰卫视
+http://121.31.30.90:8085/ysten-business/live/fhchinese/1.m3u8
+#EXTINF:-1 group-title="卫视",凤凰资讯
+http://121.31.30.90:8085/ysten-business/live/fhzixun/1.m3u8
+#EXTINF:-1 group-title="卫视",阳光卫视
+http://121.31.30.90:8085/ysten-business/live/yangguangstv/1.m3u8
+#EXTINF:-1 group-title="卫视",莲花卫视
+http://121.31.30.90:8085/ysten-business/live/aomenlianhua/1.m3u8
+#EXTINF:-1 group-title="卫视",深圳卫视HD
+http://121.31.30.90:8085/ysten-business/live/hdshenzhenstv/1.m3u8
+#EXTINF:-1 group-title="卫视",山东卫视HD
+http://121.31.30.90:8085/ysten-business/live/hdshandongstv/1.m3u8
+#EXTINF:-1 group-title="卫视",北京卫视HD
+http://121.31.30.90:8085/ysten-business/live/hdbeijingstv/1.m3u8
+#EXTINF:-1 group-title="卫视",天津卫视HD
+http://121.31.30.90:8085/ysten-business/live/hdtianjinstv/1.m3u8
+#EXTINF:-1 group-title="卫视",湖北卫视HD
+http://121.31.30.90:8085/ysten-business/live/hdhubeistv/1.m3u8
+#EXTINF:-1 group-title="卫视",黑龙江卫视HD
+http://121.31.30.90:8085/ysten-business/live/hdheilongjiangstv/1.m3u8
+#EXTINF:-1 group-title="卫视",重庆卫视
+http://121.31.30.90:8085/ysten-business/live/chongqingstv/1.m3u8
+#EXTINF:-1 group-title="卫视",东方卫视
+http://121.31.30.90:8085/ysten-business/live/dongfangstv/1.m3u8
+#EXTINF:-1 group-title="卫视",东南卫视
+http://121.31.30.90:8085/ysten-business/live/dongnanstv/1.m3u8
+#EXTINF:-1 group-title="卫视",广东卫视
+http://121.31.30.90:8085/ysten-business/live/guangdongstv/1.m3u8
+#EXTINF:-1 group-title="卫视",广西卫视
+http://121.31.30.90:8085/ysten-business/live/guangxistv/1.m3u8
+#EXTINF:-1 group-title="卫视",贵州卫视
+http://121.31.30.90:8085/ysten-business/live/guizhoustv/1.m3u8
+#EXTINF:-1 group-title="卫视",河南卫视
+http://121.31.30.90:8085/ysten-business/live/henanstv/1.m3u8
+#EXTINF:-1 group-title="卫视",湖南卫视
+http://121.31.30.90:8085/ysten-business/live/hunanstv/1.m3u8
+#EXTINF:-1 group-title="卫视",江苏卫视
+http://121.31.30.90:8085/ysten-business/live/jiangsustv/1.m3u8
+#EXTINF:-1 group-title="卫视",江西卫视
+http://121.31.30.90:8085/ysten-business/live/jiangxistv/1.m3u8
+#EXTINF:-1 group-title="卫视",宁夏卫视
+http://121.31.30.90:8085/ysten-business/live/ningxiastv/1.m3u8
+#EXTINF:-1 group-title="卫视",山东卫视
+http://121.31.30.90:8085/ysten-business/live/shandongstv/1.m3u8
+#EXTINF:-1 group-title="卫视",山西卫视
+http://121.31.30.90:8085/ysten-business/live/shanxistv/1.m3u8
+#EXTINF:-1 group-title="卫视",深圳卫视
+http://121.31.30.90:8085/ysten-business/live/shenzhenstv/1.m3u8
+#EXTINF:-1 group-title="卫视",浙江卫视
+http://121.31.30.90:8085/ysten-business/live/zhejiangstv/1.m3u8
+#EXTINF:-1 group-title="卫视",安徽卫视
+http://121.31.30.90:8085/ysten-business/live/anhuistv/1.m3u8
+#EXTINF:-1 group-title="卫视",北京卫视
+http://121.31.30.90:8085/ysten-business/live/beijingstv/1.m3u8
+#EXTINF:-1 group-title="卫视",甘肃卫视
+http://121.31.30.90:8085/ysten-business/live/gansustv/1.m3u8
+#EXTINF:-1 group-title="卫视",河北卫视
+http://121.31.30.90:8085/ysten-business/live/hebeistv/1.m3u8
+#EXTINF:-1 group-title="卫视",湖北卫视
+http://121.31.30.90:8085/ysten-business/live/hubeistv/1.m3u8
+#EXTINF:-1 group-title="卫视",辽宁卫视
+http://121.31.30.90:8085/ysten-business/live/liaoningstv/1.m3u8
+#EXTINF:-1 group-title="卫视",内蒙古卫视
+http://121.31.30.90:8085/ysten-business/live/neimenggustv/1.m3u8
+#EXTINF:-1 group-title="卫视",青海卫视
+http://121.31.30.90:8085/ysten-business/live/qinghaistv/1.m3u8
+#EXTINF:-1 group-title="卫视",陕西卫视
+http://121.31.30.90:8085/ysten-business/live/shanxi1stv/1.m3u8
+#EXTINF:-1 group-title="卫视",四川卫视
+http://121.31.30.90:8085/ysten-business/live/sichuanstv/1.m3u8
+#EXTINF:-1 group-title="卫视",天津卫视
+http://121.31.30.90:8085/ysten-business/live/tianjinstv/1.m3u8
+#EXTINF:-1 group-title="卫视",新疆卫视
+http://121.31.30.90:8085/ysten-business/live/xinjiangstv/1.m3u8
+#EXTINF:-1 group-title="卫视",云南卫视
+http://121.31.30.90:8085/ysten-business/live/yunnanstv/1.m3u8
+#EXTINF:-1 group-title="卫视",炫动卡通
+http://121.31.30.90:8085/ysten-business/live/xuandongkaton/1.m3u8
+#EXTINF:-1 group-title="卫视",卡酷少儿
+http://121.31.30.90:8085/ysten-business/live/kakukaton/1.m3u8
+#EXTINF:-1 group-title="卫视",西藏卫视
+http://121.31.30.90:8085/ysten-business/live/xizangstv/1.m3u8
+#EXTINF:-1 group-title="卫视",中国教育1
+http://121.31.30.90:8085/ysten-business/live/jiaoyutv/1.m3u8
+#EXTINF:-1 group-title="卫视",金鹰卡通
+http://121.31.30.90:8085/ysten-business/live/jinyingkaton/1.m3u8
+#EXTINF:-1 group-title="卫视",山东教育
+http://121.31.30.90:8085/ysten-business/live/shandongjy/1.m3u8
+#EXTINF:-1 group-title="卫视",优漫卡通
+http://121.31.30.90:8085/ysten-business/live/youmankaton/1.m3u8
+#EXTINF:-1 group-title="卫视",吉林卫视
+http://121.31.30.90:8085/ysten-business/live/jilinstv/1.m3u8
+#EXTINF:-1 group-title="卫视",康巴卫视
+http://121.31.30.90:8085/ysten-business/live/kambatv/1.m3u8
+#EXTINF:-1 group-title="newtv",newtv精品大剧HD
+http://121.31.30.90:8085/ysten-business/live/jdaju/1.m3u8
+#EXTINF:-1 group-title="newtv",newtv精品电影HD
+http://121.31.30.90:8085/ysten-business/live/jdianying/1.m3u8
+#EXTINF:-1 group-title="newtv",newtv精品体育HD
+http://121.31.30.90:8085/ysten-business/live/jtiyu/1.m3u8
+#EXTINF:-1 group-title="newtv",newtv完美游戏
+http://121.31.30.90:8085/ysten-business/live/wmyx/1.m3u8
+#EXTINF:-1 group-title="newtv",newtv爱情喜剧
+http://121.31.30.90:8085/ysten-business/live/aiqingxj/1.m3u8
+#EXTINF:-1 group-title="newtv",newtv古装剧场
+http://121.31.30.90:8085/ysten-business/live/guzhuangjc/1.m3u8
+#EXTINF:-1 group-title="newtv",newtv动作电影HD
+http://121.31.30.90:8085/ysten-business/live/dongzuody/1.m3u8
+#EXTINF:-1 group-title="newtv",newtv军旅剧场
+http://121.31.30.90:8085/ysten-business/live/junlvjc/1.m3u8
+#EXTINF:-1 group-title="newtv",newtv海外剧场
+http://121.31.30.90:8085/ysten-business/live/xiqumd/1.m3u8
+#EXTINF:-1 group-title="newtv",newtv家庭剧场HHD
+http://121.31.30.90:8085/ysten-business/live/jiatingjc/1.m3u8
+#EXTINF:-1 group-title="newtv",newtv动画王国HHD
+http://121.31.30.90:8085/ysten-business/live/donghuawg/1.m3u8
+#EXTINF:-1 group-title="newtv",newtv金牌综艺HD
+http://121.31.30.90:8085/ysten-business/live/saishijx/1.m3u8
+#EXTINF:-1 group-title="newtv",newtv惊悚悬疑HD
+http://121.31.30.90:8085/ysten-business/live/jingsongxy/1.m3u8
+#EXTINF:-1 group-title="newtv",newtv精品记录HHD
+http://121.31.30.90:8085/ysten-business/live/jingpinjl/1.m3u8
+#EXTINF:-1 group-title="newtv",newtv明星大片HD
+http://121.31.30.90:8085/ysten-business/live/mingxingdp/1.m3u8
+#EXTINF:-1 group-title="newtv",newtv军事频道
+http://121.31.30.90:8085/ysten-business/live/junshipl/1.m3u8
+#EXTINF:-1 group-title="newtv",newtv农业致富
+http://121.31.30.90:8085/ysten-business/live/nongyezf/1.m3u8
+#EXTINF:-1 group-title="newtv",newtv潮妈辣婆
+http://121.31.30.90:8085/ysten-business/live/cmlapo/1.m3u8
+#EXTINF:-1 group-title="newtv",newtv健康有约
+http://121.31.30.90:8085/ysten-business/live/ljiankangyouyue/1.m3u8
+#EXTINF:-1 group-title="newtv",newtv中国功夫
+http://121.31.30.90:8085/ysten-business/live/SD-1500k-576P-gzkongfu/1.m3u8
+#EXTINF:-1 group-title="newtv",newtv搏击
+http://121.31.30.90:8085/ysten-business/live/SD-1500k-576P-bokesen/1.m3u8
