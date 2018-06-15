@@ -1,225 +1,225 @@
 #EXTM3U
-#EXTINF:-1 group-title="6¹ą̂",CCTV-16¹â
+#EXTINF:-1 group-title="蓝光台",CCTV-1蓝光
 http://223.110.241.204:6610/gitv/live1/G_CCTV-1-CQ/G_CCTV-1-CQ/1.m3u8
-#EXTINF:-1 group-title="6¹ą̂",CCTV-26¹â
+#EXTINF:-1 group-title="蓝光台",CCTV-2蓝光
 http://223.110.241.204:6610/gitv/live1/G_CCTV-2-CQ/G_CCTV-2-CQ/1.m3u8
-#EXTINF:-1 group-title="6¹ą̂",CCTV-36¹â
+#EXTINF:-1 group-title="蓝光台",CCTV-3蓝光
 http://223.110.241.204:6610/gitv/live1/G_CCTV-3-CQ/G_CCTV-3-CQ/1.m3u8
-#EXTINF:-1 group-title="6¹ą̂",CCTV-46¹â
+#EXTINF:-1 group-title="蓝光台",CCTV-4蓝光
 http://223.110.241.204:6610/gitv/live1/G_CCTV-4-CQ/G_CCTV-4-CQ/1.m3u8
-#EXTINF:-1 group-title="6¹ą̂",CCTV-56¹â
+#EXTINF:-1 group-title="蓝光台",CCTV-5蓝光
 http://223.110.241.204:6610/gitv/live1/G_CCTV-5-CQ/G_CCTV-5-CQ/1.m3u8
-#EXTINF:-1 group-title="6¹ą̂",CCTV-5+6¹â
+#EXTINF:-1 group-title="蓝光台",CCTV-5+蓝光
 http://223.110.241.204:6610/gitv/live1/G_CCTV-5PLUS-CQ/G_CCTV-5PLUS-CQ/1.m3u8
-#EXTINF:-1 group-title="6¹ą̂",CCTV-66¹â
+#EXTINF:-1 group-title="蓝光台",CCTV-6蓝光
 http://223.110.241.204:6610/gitv/live1/G_CCTV-6-CQ/G_CCTV-6-CQ/1.m3u8
-#EXTINF:-1 group-title="6¹ą̂",CCTV-86¹â
+#EXTINF:-1 group-title="蓝光台",CCTV-8蓝光
 http://223.110.241.204:6610/gitv/live1/G_CCTV-8-CQ/G_CCTV-8-CQ/1.m3u8
-#EXTINF:-1 group-title="³¬Çą̊",CCTV-1³¬Çå
+#EXTINF:-1 group-title="超清台",CCTV-1超清
 http://223.110.241.204:6610/gitv/live1/G_CCTV-1-HQ/G_CCTV-1-HQ/1.m3u8
-#EXTINF:-1 group-title="³¬Çą̊",CCTV-2¸ßÇå
+#EXTINF:-1 group-title="超清台",CCTV-2高清
 http://223.110.241.204:6610/gitv/live1/G_CCTV-2-HD/G_CCTV-2-HD/1.m3u8
-#EXTINF:-1 group-title="³¬Çą̊",CCTV-3³¬Çå
+#EXTINF:-1 group-title="超清台",CCTV-3超清
 http://223.110.241.204:6610/gitv/live1/G_CCTV-3-HQ/G_CCTV-3-HQ/1.m3u8
-#EXTINF:-1 group-title="³¬Çą̊",CCTV-4³¬Çå
+#EXTINF:-1 group-title="超清台",CCTV-4超清
 http://223.110.241.204:6610/gitv/live1/G_CCTV-4-HQ/G_CCTV-4-HQ/1.m3u8
-#EXTINF:-1 group-title="³¬Çą̊",CCTV-5³¬Çå
+#EXTINF:-1 group-title="超清台",CCTV-5超清
 http://223.110.241.204:6610/gitv/live1/G_CCTV-5-HQ/G_CCTV-5-HQ/1.m3u8
-#EXTINF:-1 group-title="³¬Çą̊",CCTV-5+³¬Çå
+#EXTINF:-1 group-title="超清台",CCTV-5+超清
 http://223.110.241.204:6610/gitv/live1/G_CCTV-5PLUS-HQ/G_CCTV-5PLUS-HQ/1.m3u8
-#EXTINF:-1 group-title="³¬Çą̊",CCTV-6³¬Çå
+#EXTINF:-1 group-title="超清台",CCTV-6超清
 http://223.110.241.204:6610/gitv/live1/G_CCTV-6-HQ/G_CCTV-6-HQ/1.m3u8
-#EXTINF:-1 group-title="³¬Çą̊",CCTV-7³¬Çå
+#EXTINF:-1 group-title="超清台",CCTV-7超清
 http://223.110.241.204:6610/gitv/live1/G_CCTV-7-HQ/G_CCTV-7-HQ/1.m3u8
-#EXTINF:-1 group-title="³¬Çą̊",CCTV-8³¬Çå
+#EXTINF:-1 group-title="超清台",CCTV-8超清
 http://223.110.241.204:6610/gitv/live1/G_CCTV-8-HQ/G_CCTV-8-HQ/1.m3u8
-#EXTINF:-1 group-title="³¬Çą̊",CCTV-9³¬Çå
+#EXTINF:-1 group-title="超清台",CCTV-9超清
 http://223.110.241.204:6610/gitv/live1/G_CCTV-9/G_CCTV-9/1.m3u8
-#EXTINF:-1 group-title="³¬Çą̊",CCTV-10³¬Çå
+#EXTINF:-1 group-title="超清台",CCTV-10超清
 http://223.110.241.204:6610/gitv/live1/G_CCTV-10-HQ/G_CCTV-10-HQ/1.m3u8
-#EXTINF:-1 group-title="³¬Çą̊",CCTV-11³¬Çå
+#EXTINF:-1 group-title="超清台",CCTV-11超清
 http://223.110.241.204:6610/gitv/live1/G_CCTV-11-HQ/G_CCTV-11-HQ/1.m3u8
-#EXTINF:-1 group-title="³¬Çą̊",CCTV-12³¬Çå
+#EXTINF:-1 group-title="超清台",CCTV-12超清
 http://223.110.241.204:6610/gitv/live1/CCTV-12/CCTV-12/1.m3u8
-#EXTINF:-1 group-title="³¬Çą̊",CCTV-13³¬Çå
+#EXTINF:-1 group-title="超清台",CCTV-13超清
 http://223.110.241.204:6610/gitv/live1/G_CCTV-13-HQ/G_CCTV-13-HQ/1.m3u8
-#EXTINF:-1 group-title="³¬Çą̊",CCTV-14³¬Çå
+#EXTINF:-1 group-title="超清台",CCTV-14超清
 http://223.110.241.204:6610/gitv/live1/G_CCTV-14/G_CCTV-14/1.m3u8
-#EXTINF:-1 group-title="³¬Çą̊",CCTV-15³¬Çå
+#EXTINF:-1 group-title="超清台",CCTV-15超清
 http://223.110.241.204:6610/gitv/live1/G_CCTV-15/G_CCTV-15/1.m3u8
-#EXTINF:-1 group-title="³¬Çą̊",CCTV-NEWS
+#EXTINF:-1 group-title="超清台",CCTV-NEWS
 http://223.110.241.204:6610/gitv/live1/G_CCTV-NEWS/G_CCTV-NEWS/1.m3u8
-#EXTINF:-1 group-title="³¬Çą̊",ºþÄÏÎÀÊӳ¬Çå-8M
+#EXTINF:-1 group-title="超清台",湖南卫视超清-8M
 http://223.110.241.204:6610/gitv/live1/G_HUNAN-CQ/G_HUNAN-CQ/1.m3u8
-#EXTINF:-1 group-title="³¬Çą̊",½­ËÕÎÀÊӳ¬Çå
+#EXTINF:-1 group-title="超清台",江苏卫视超清
 http://223.110.241.204:6610/gitv/live1/G_JIANGSU-CQ/G_JIANGSU-CQ/1.m3u8
-#EXTINF:-1 group-title="³¬Çą̊",±±¾©ÎÀÊӳ¬Çå-8M
+#EXTINF:-1 group-title="超清台",北京卫视超清-8M
 http://223.110.241.204:6610/gitv/live1/G_BEIJING-CQ/G_BEIJING-CQ/1.m3u8
-#EXTINF:-1 group-title="³¬Çą̊",Õ㽭ÎÀÊӳ¬Çå
+#EXTINF:-1 group-title="超清台",浙江卫视超清
 http://223.110.241.204:6610/gitv/live1/G_ZHEJIANG-CQ/G_ZHEJIANG-CQ/1.m3u8
-#EXTINF:-1 group-title="³¬Çą̊",¶«·½ÎÀÊӳ¬Çå-8M
+#EXTINF:-1 group-title="超清台",东方卫视超清-8M
 http://223.110.241.204:6610/gitv/live1/G_DONGFANG-CQ/G_DONGFANG-CQ/1.m3u8
-#EXTINF:-1 group-title="±êÇą̊",CCTV-1
+#EXTINF:-1 group-title="标清台",CCTV-1
 http://223.110.241.204:6610/gitv/live1/G_CCTV-1/G_CCTV-1/1.m3u8
-#EXTINF:-1 group-title="±êÇą̊",CCTV-2
+#EXTINF:-1 group-title="标清台",CCTV-2
 http://223.110.241.204:6610/gitv/live1/G_CCTV-2/G_CCTV-2/1.m3u8
-#EXTINF:-1 group-title="±êÇą̊",CCTV-3
+#EXTINF:-1 group-title="标清台",CCTV-3
 http://223.110.241.204:6610/gitv/live1/G_CCTV-3-HD/G_CCTV-3-HD/1.m3u8
-#EXTINF:-1 group-title="±êÇą̊",CCTV-5
+#EXTINF:-1 group-title="标清台",CCTV-5
 http://223.110.241.204:6610/gitv/live1/G_CCTV-5-HD/G_CCTV-5-HD/1.m3u8
-#EXTINF:-1 group-title="±êÇą̊",CCTV-8
+#EXTINF:-1 group-title="标清台",CCTV-8
 http://223.110.241.204:6610/gitv/live1/G_CCTV-8/G_CCTV-8/1.m3u8
-#EXTINF:-1 group-title="±êÇą̊",CETV-1
+#EXTINF:-1 group-title="标清台",CETV-1
 http://223.110.241.204:6610/gitv/live1/G_CETV-1/G_CETV-1/1.m3u8
-#EXTINF:-1 group-title="±êÇą̊",CETV-2
+#EXTINF:-1 group-title="标清台",CETV-2
 http://223.110.241.204:6610/gitv/live1/G_CETV-2/G_CETV-2/1.m3u8
-#EXTINF:-1 group-title="±êÇą̊",CETV-4
+#EXTINF:-1 group-title="标清台",CETV-4
 http://223.110.241.204:6610/gitv/live1/G_CETV-4/G_CETV-4/1.m3u8
-#EXTINF:-1 group-title="±êÇą̊",CETV-3
+#EXTINF:-1 group-title="标清台",CETV-3
 http://223.110.241.204:6610/gitv/live1/G_CETV-3/G_CETV-3/1.m3u8
-#EXTINF:-1 group-title="±êÇą̊",°²»ÕÎÀÊÓ
+#EXTINF:-1 group-title="标清台",安徽卫视
 http://223.110.241.204:6610/gitv/live1/AHWS/AHWS/1.m3u8
-#EXTINF:-1 group-title="±êÇą̊",ÁÉÄþÎÀÊÓ
+#EXTINF:-1 group-title="标清台",辽宁卫视
 http://223.110.241.204:6610/gitv/live1/LNWS/LNWS/1.m3u8
-#EXTINF:-1 group-title="±êÇą̊",ɽ¶«ÎÀÊÓ
+#EXTINF:-1 group-title="标清台",山东卫视
 http://223.110.241.204:6610/gitv/live1/SDWS/SDWS/1.m3u8
-#EXTINF:-1 group-title="±êÇą̊",¹ãÎ÷ÎÀÊÓ
+#EXTINF:-1 group-title="标清台",广西卫视
 http://223.110.241.204:6610/gitv/live1/GXWS/GXWS/1.m3u8
-#EXTINF:-1 group-title="±êÇą̊",ÂÃÓÎÎÀÊÓ
+#EXTINF:-1 group-title="标清台",旅游卫视
 http://223.110.241.204:6610/gitv/live1/LYWS/LYWS/1.m3u8
-#EXTINF:-1 group-title="±êÇą̊",ÖØÇìÎÀÊÓ
+#EXTINF:-1 group-title="标清台",重庆卫视
 http://223.110.241.204:6610/gitv/live1/G_CHONGQING/G_CHONGQING/1.m3u8
-#EXTINF:-1 group-title="±êÇą̊",ËĴ¨ÎÀÊÓ
+#EXTINF:-1 group-title="标清台",四川卫视
 http://223.110.241.204:6610/gitv/live1/SCWS/SCWS/1.m3u8
-#EXTINF:-1 group-title="±êÇą̊",ºÓÄÏÎÀÊÓ
+#EXTINF:-1 group-title="标清台",河南卫视
 http://223.110.241.204:6610/gitv/live1/HENAN/HENAN/1.m3u8
-#EXTINF:-1 group-title="±êÇą̊",¶«ÄÏÎÀÊÓ
+#EXTINF:-1 group-title="标清台",东南卫视
 http://223.110.241.204:6610/gitv/live1/DNWS/DNWS/1.m3u8
-#EXTINF:-1 group-title="±êÇą̊",Ìì½òÎÀÊÓ
+#EXTINF:-1 group-title="标清台",天津卫视
 http://223.110.241.204:6610/gitv/live1/TJWS/TJWS/1.m3u8
-#EXTINF:-1 group-title="±êÇą̊",½­Î÷ÎÀÊÓ
+#EXTINF:-1 group-title="标清台",江西卫视
 http://223.110.241.204:6610/gitv/live1/JXWS/JXWS/1.m3u8
-#EXTINF:-1 group-title="±êÇą̊",ºþ±±ÎÀÊÓ
+#EXTINF:-1 group-title="标清台",湖北卫视
 http://223.110.241.204:6610/gitv/live1/G_HUBEI/G_HUBEI/1.m3u8
-#EXTINF:-1 group-title="±êÇą̊",¼ªÁÖÎÀÊÓ
+#EXTINF:-1 group-title="标清台",吉林卫视
 http://223.110.241.204:6610/gitv/live1/G_JILIN/G_JILIN/1.m3u8
-#EXTINF:-1 group-title="±êÇą̊",ɽÎ÷ÎÀÊÓ
+#EXTINF:-1 group-title="标清台",山西卫视
 http://223.110.241.204:6610/gitv/live1/SXWS/SXWS/1.m3u8
-#EXTINF:-1 group-title="±êÇą̊",¹óÖÝÎÀÊÓ
+#EXTINF:-1 group-title="标清台",贵州卫视
 http://223.110.241.204:6610/gitv/live1/G_GUIZHOU/G_GUIZHOU/1.m3u8
-#EXTINF:-1 group-title="±êÇą̊",ÇຣÎÀÊÓ
+#EXTINF:-1 group-title="标清台",青海卫视
 http://223.110.241.204:6610/gitv/live1/G_QINGHAI/G_QINGHAI/1.m3u8
-#EXTINF:-1 group-title="±êÇą̊",ÄÚÃɹÅÎÀÊÓ
+#EXTINF:-1 group-title="标清台",内蒙古卫视
 http://223.110.241.204:6610/gitv/live1/G_NEIMENGGU/G_NEIMENGGU/1.m3u8
-#EXTINF:-1 group-title="±êÇą̊",ÔÆÄÏÎÀÊÓ
+#EXTINF:-1 group-title="标清台",云南卫视
 http://223.110.241.204:6610/gitv/live1/G_YUNNAN/G_YUNNAN/1.m3u8
-#EXTINF:-1 group-title="±êÇą̊",ºӱ±ÎÀÊÓ
+#EXTINF:-1 group-title="标清台",河北卫视
 http://223.110.241.204:6610/gitv/live1/G_HEBEI/G_HEBEI/1.m3u8
-#EXTINF:-1 group-title="±êÇą̊",ÄþÏÄÎÀÊÓ
+#EXTINF:-1 group-title="标清台",宁夏卫视
 http://223.110.241.204:6610/gitv/live1/G_NINGXIA/G_NINGXIA/1.m3u8
-#EXTINF:-1 group-title="±êÇą̊",Ð½®ÎÀÊÓ
+#EXTINF:-1 group-title="标清台",新疆卫视
 http://223.110.241.204:6610/gitv/live1/G_XINJIANG/G_XINJIANG/1.m3u8
-#EXTINF:-1 group-title="±êÇą̊",¸ÊËàÎÀÊÓ
+#EXTINF:-1 group-title="标清台",甘肃卫视
 http://223.110.241.204:6610/gitv/live1/G_GANSU/G_GANSU/1.m3u8
-#EXTINF:-1 group-title="±êÇą̊",Î÷²ØÎÀÊÓ
+#EXTINF:-1 group-title="标清台",西藏卫视
 http://223.110.241.204:6610/gitv/live1/G_XIZANG/G_XIZANG/1.m3u8
-#EXTINF:-1 group-title="±êÇą̊",ÓÅÂþ¿¨ͨ
+#EXTINF:-1 group-title="标清台",优漫卡通
 http://223.110.241.204:6610/gitv/live1/G_YOUMAN/G_YOUMAN/1.m3u8
-#EXTINF:-1 group-title="±êÇą̊",Õ㽭ÎÀÊÓ
+#EXTINF:-1 group-title="标清台",浙江卫视
 http://223.110.241.204:6610/gitv/live1/G_ZHEJIANG/G_ZHEJIANG/1.m3u8
-#EXTINF:-1 group-title="±êÇą̊",½­ËÕÎÀÊÓ
+#EXTINF:-1 group-title="标清台",江苏卫视
 http://223.110.241.204:6610/gitv/live1/JSWS-HD/JSWS-HD/1.m3u8
-#EXTINF:-1 group-title="±êÇą̊",ºþÄÏÎÀÊÓ
+#EXTINF:-1 group-title="标清台",湖南卫视
 http://223.110.241.204:6610/gitv/live1/G_HUNAN/G_HUNAN/1.m3u8
-#EXTINF:-1 group-title="±êÇą̊",¶«·½ÎÀÊÓ
+#EXTINF:-1 group-title="标清台",东方卫视
 http://223.110.241.204:6610/gitv/live1/G_DONGFANG/G_DONGFANG/1.m3u8
-#EXTINF:-1 group-title="±êÇą̊",±±¾©ÎÀÊÓ
+#EXTINF:-1 group-title="标清台",北京卫视
 http://223.110.241.204:6610/gitv/live1/G_BEIJING/G_BEIJING/1.m3u8
-#EXTINF:-1 group-title="±êÇą̊",¹㶫ÎÀÊÓ
+#EXTINF:-1 group-title="标清台",广东卫视
 http://223.110.241.204:6610/gitv/live1/G_GUANGDONG/G_GUANGDONG/1.m3u8
-#EXTINF:-1 group-title="±êÇą̊",ÉîÛÚÎÀÊÓ
+#EXTINF:-1 group-title="标清台",深圳卫视
 http://223.110.241.204:6610/gitv/live1/G_SHENZHEN/G_SHENZHEN/1.m3u8
-#EXTINF:-1 group-title="±êÇą̊",ºÚÁú½­ÎÀÊÓ
+#EXTINF:-1 group-title="标清台",黑龙江卫视
 http://223.110.241.204:6610/gitv/live1/G_HEILONGJIANG/G_HEILONGJIANG/1.m3u8
-#EXTINF:-1 group-title="±êÇą̊",±øÍÅÎÀÊÓ
+#EXTINF:-1 group-title="标清台",兵团卫视
 http://223.110.241.204:6610/gitv/live1/G_BINGTUAN/G_BINGTUAN/1.m3u8
-#EXTINF:-1 group-title="±êÇą̊",ÉÂÎ÷ÎÀÊÓ
+#EXTINF:-1 group-title="标清台",陕西卫视
 http://223.110.241.204:6610/gitv/live1/G_SHANXI/G_SHANXI/1.m3u8
-#EXTINF:-1 group-title="±êÇą̊",ÄϷ½ÎÀÊӣ¨¹㶫£©
+#EXTINF:-1 group-title="标清台",南方卫视（广东）
 http://223.110.241.204:6610/gitv/live1/G_NANFANG/G_NANFANG/1.m3u8
-#EXTINF:-1 group-title="±êÇą̊",ÏÃÃÅÎÀÊÓ
+#EXTINF:-1 group-title="标清台",厦门卫视
 http://223.110.241.204:6610/gitv/live1/G_XIAMEN/G_XIAMEN/1.m3u8
-#EXTINF:-1 group-title="±êÇą̊",ɽ¶«ÎÀÊӳ¬Çå
+#EXTINF:-1 group-title="标清台",山东卫视超清
 http://223.110.241.204:6610/gitv/live1/G_SHANDONG-HQ/G_SHANDONG-HQ/1.m3u8
-#EXTINF:-1 group-title="±êÇą̊",ÑӱßÎÀÊÓ
+#EXTINF:-1 group-title="标清台",延边卫视
 http://223.110.241.204:6610/gitv/live1/G_YANBIAN/G_YANBIAN/1.m3u8
-#EXTINF:-1 group-title="±êÇą̊",¼μѿ¨ͨ
+#EXTINF:-1 group-title="标清台",嘉佳卡通
 http://223.110.241.204:6610/gitv/live1/G_JIAJIA/G_JIAJIA/1.m3u8
-#EXTINF:-1 group-title="±êÇą̊",ɽ¶«½ÌÓýµçÊǪ́
+#EXTINF:-1 group-title="标清台",山东教育电视台
 http://223.110.241.204:6610/gitv/live1/G_SDETV/G_SDETV/1.m3u8
-#EXTINF:-1 group-title="±êÇą̊",°²¶àÎÀÊÓ
+#EXTINF:-1 group-title="标清台",安多卫视
 http://223.110.241.204:6610/gitv/live1/G_ANDUO/G_ANDUO/1.m3u8
-#EXTINF:-1 group-title="±êÇą̊",¿¼ÊÔÔÚÏß
+#EXTINF:-1 group-title="标清台",考试在线
 http://223.110.241.204:6610/gitv/live1/G_KAOSHIZX/G_KAOSHIZX/1.m3u8
-#EXTINF:-1 group-title="±êÇą̊",ũÁÖÎÀÊÓ
+#EXTINF:-1 group-title="标清台",农林卫视
 http://223.110.241.204:6610/gitv/live1/G_NONGLIN/G_NONGLIN/1.m3u8
-#EXTINF:-1 group-title="±êÇą̊",ÖÃҵƵµÀ
+#EXTINF:-1 group-title="标清台",置业频道
 http://223.110.241.204:6610/gitv/live1/G_ZHIYE/G_ZHIYE/1.m3u8
-#EXTINF:-1 group-title="±êÇą̊",¿µ°ÍÎÀÊÓ
+#EXTINF:-1 group-title="标清台",康巴卫视
 http://223.110.241.204:6610/gitv/live1/G_KANGBA/G_KANGBA/1.m3u8
-#EXTINF:-1 group-title="±êÇą̊",¾©ÊӾ糡
+#EXTINF:-1 group-title="标清台",京视剧场
 http://223.110.241.204:6610/gitv/live1/G_JINGJU/G_JINGJU/1.m3u8
-#EXTINF:-1 group-title="±êÇą̊",ÐÂÓéÀÖ
+#EXTINF:-1 group-title="标清台",新娱乐
 http://223.110.241.204:6610/gitv/live1/G_XINYULE/G_XINYULE/1.m3u8
-#EXTINF:-1 group-title="±êÇą̊",¼ÒͥÀí²Æ
+#EXTINF:-1 group-title="标清台",家庭理财
 http://223.110.241.204:6610/gitv/live1/G_JIATINGLC/G_JIATINGLC/1.m3u8
-#EXTINF:-1 group-title="±êÇą̊",·¢ÏÖ֮ÂÃ
+#EXTINF:-1 group-title="标清台",发现之旅
 http://223.110.241.204:6610/gitv/live1/G_FAXIANZL/G_FAXIANZL/1.m3u8
-#EXTINF:-1 group-title="±êÇą̊",ÞÄ̳´ºÇï
+#EXTINF:-1 group-title="标清台",弈坛春秋
 http://223.110.241.204:6610/gitv/live1/G_YITANCQ/G_YITANCQ/1.m3u8
-#EXTINF:-1 group-title="±êÇą̊",ÀϹÊÊÂ
+#EXTINF:-1 group-title="标清台",老故事
 http://223.110.241.204:6610/gitv/live1/G_LAOGUSHI/G_LAOGUSHI/1.m3u8
-#EXTINF:-1 group-title="±êÇą̊",ŮÐÔʱÉÐ
+#EXTINF:-1 group-title="标清台",女性时尚
 http://223.110.241.204:6610/gitv/live1/G_NVXINGSS/G_NVXINGSS/1.m3u8
-#EXTINF:-1 group-title="±êÇą̊",ÏִúŮÐÔ
+#EXTINF:-1 group-title="标清台",现代女性
 http://223.110.241.204:6610/gitv/live1/G_XIANDAINX/G_XIANDAINX/1.m3u8
-#EXTINF:-1 group-title="±êÇą̊",¸߶û·ò
+#EXTINF:-1 group-title="标清台",高尔夫
 http://223.110.241.204:6610/gitv/live1/G_GAOERFU/G_GAOERFU/1.m3u8
-#EXTINF:-1 group-title="±êÇą̊",ְҵָÄÏ
+#EXTINF:-1 group-title="标清台",职业指南
 http://223.110.241.204:6610/gitv/live1/G_ZHIYEZN/G_ZHIYEZN/1.m3u8
-#EXTINF:-1 group-title="±êÇą̊",֤ȯ×ÊѶ
+#EXTINF:-1 group-title="标清台",证券资讯
 http://223.110.241.204:6610/gitv/live1/G_ZHENGJUANZX/G_ZHENGJUANZX/1.m3u8
-#EXTINF:-1 group-title="±êÇą̊",Öйú½»ͨƵµÀ
+#EXTINF:-1 group-title="标清台",中国交通频道
 http://223.110.241.204:6610/gitv/live1/G_ZHONGGUOJT/G_ZHONGGUOJT/1.m3u8
-#EXTINF:-1 group-title="±êÇą̊",¹úѧƵµÀ
+#EXTINF:-1 group-title="标清台",国学频道
 http://223.110.241.204:6610/gitv/live1/G_GUOXUE/G_GUOXUE/1.m3u8
-#EXTINF:-1 group-title="±êÇą̊",:Çò
+#EXTINF:-1 group-title="标清台",篮球
 http://223.110.241.204:6610/gitv/live1/G_LANQIU/G_LANQIU/1.m3u8
-#EXTINF:-1 group-title="±êÇą̊",¿¨¿áÉٶù
+#EXTINF:-1 group-title="标清台",卡酷少儿
 http://223.110.241.204:6610/gitv/live1/G_KAKU/G_KAKU/1.m3u8
-#EXTINF:-1 group-title="±êÇą̊",½ðӥ¿¨ͨ
+#EXTINF:-1 group-title="标清台",金鹰卡通
 http://223.110.241.204:6610/gitv/live1/G_JINYING/G_JINYING/1.m3u8
-#EXTINF:-1 group-title="±êÇą̊",ìŶ¯¿¨ͨ
+#EXTINF:-1 group-title="标清台",炫动卡通
 http://223.110.241.204:6610/gitv/live1/G_XUANDONG/G_XUANDONG/1.m3u8
-#EXTINF:-1 group-title="½­ËǪ̃",½­ËÕÎÀÊӳ¬Çå
+#EXTINF:-1 group-title="江苏台",江苏卫视超清
 http://223.110.241.204:6610/gitv/live1/G_JIANGSU-CQ/G_JIANGSU-CQ/1.m3u8
-#EXTINF:-1 group-title="½­ËǪ̃",½­ËսÌÓý
+#EXTINF:-1 group-title="江苏台",江苏教育
 http://223.110.241.204:6610/gitv/live1/G_JSJY/G_JSJY/1.m3u8
-#EXTINF:-1 group-title="½­ËǪ̃",½­ËճÇÊÐ
+#EXTINF:-1 group-title="江苏台",江苏城市
 http://223.110.241.204:6610/gitv/live1/G_JSCS/G_JSCS/1.m3u8
-#EXTINF:-1 group-title="½­ËǪ̃",½­Ëչ«¹²
+#EXTINF:-1 group-title="江苏台",江苏公共
 http://223.110.241.204:6610/gitv/live1/G_JSGG/G_JSGG/1.m3u8
-#EXTINF:-1 group-title="½­ËǪ̃",½­ËÕӰÊÓ
+#EXTINF:-1 group-title="江苏台",江苏影视
 http://223.110.241.204:6610/gitv/live1/G_JSYS/G_JSYS/1.m3u8
-#EXTINF:-1 group-title="½­ËǪ̃",½­ËÕÐÝÏÐÌåÓý
+#EXTINF:-1 group-title="江苏台",江苏休闲体育
 http://223.110.241.204:6610/gitv/live1/G_JSTY/G_JSTY/1.m3u8
-#EXTINF:-1 group-title="½­ËǪ̃",½­ËÕ×ÛÒÕ
+#EXTINF:-1 group-title="江苏台",江苏综艺
 http://223.110.241.204:6610/gitv/live1/G_JSZY/G_JSZY/1.m3u8
-#EXTINF:-1 group-title="½­ËǪ̃",ºÃÏ���
+#EXTINF:-1 group-title="江苏台",好享购
 http://223.110.241.204:6610/gitv/live1/G_HAOXIANG/G_HAOXIANG/1.m3u8
-#EXTINF:-1 group-title="½­ËǪ̃",ÄϾ©ÐÂÎÅ×ۺÏ
+#EXTINF:-1 group-title="江苏台",南京新闻综合
 http://223.110.241.204:6610/gitv/live1/G_NJXW/G_NJXW/1.m3u8
-#EXTINF:-1 group-title="½­ËǪ̃",ÄϾ©¿ƽÌ
+#EXTINF:-1 group-title="江苏台",南京科教
 http://223.110.241.204:6610/gitv/live1/G_NJJK/G_NJJK/1.m3u8
-#EXTINF:-1 group-title="½­ËǪ̃",ÄϾ©ʮ°Ë
+#EXTINF:-1 group-title="江苏台",南京十八
 http://223.110.241.204:6610/gitv/live1/G_NJSB/G_NJSB/1.m3u8
