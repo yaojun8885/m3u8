@@ -1,0 +1,225 @@
+#EXTM3U
+#EXTINF:-1 group-title="6¹ą̂",CCTV-16¹â
+http://223.110.241.204:6610/gitv/live1/G_CCTV-1-CQ/G_CCTV-1-CQ/1.m3u8
+#EXTINF:-1 group-title="6¹ą̂",CCTV-26¹â
+http://223.110.241.204:6610/gitv/live1/G_CCTV-2-CQ/G_CCTV-2-CQ/1.m3u8
+#EXTINF:-1 group-title="6¹ą̂",CCTV-36¹â
+http://223.110.241.204:6610/gitv/live1/G_CCTV-3-CQ/G_CCTV-3-CQ/1.m3u8
+#EXTINF:-1 group-title="6¹ą̂",CCTV-46¹â
+http://223.110.241.204:6610/gitv/live1/G_CCTV-4-CQ/G_CCTV-4-CQ/1.m3u8
+#EXTINF:-1 group-title="6¹ą̂",CCTV-56¹â
+http://223.110.241.204:6610/gitv/live1/G_CCTV-5-CQ/G_CCTV-5-CQ/1.m3u8
+#EXTINF:-1 group-title="6¹ą̂",CCTV-5+6¹â
+http://223.110.241.204:6610/gitv/live1/G_CCTV-5PLUS-CQ/G_CCTV-5PLUS-CQ/1.m3u8
+#EXTINF:-1 group-title="6¹ą̂",CCTV-66¹â
+http://223.110.241.204:6610/gitv/live1/G_CCTV-6-CQ/G_CCTV-6-CQ/1.m3u8
+#EXTINF:-1 group-title="6¹ą̂",CCTV-86¹â
+http://223.110.241.204:6610/gitv/live1/G_CCTV-8-CQ/G_CCTV-8-CQ/1.m3u8
+#EXTINF:-1 group-title="³¬Çą̊",CCTV-1³¬Çå
+http://223.110.241.204:6610/gitv/live1/G_CCTV-1-HQ/G_CCTV-1-HQ/1.m3u8
+#EXTINF:-1 group-title="³¬Çą̊",CCTV-2¸ßÇå
+http://223.110.241.204:6610/gitv/live1/G_CCTV-2-HD/G_CCTV-2-HD/1.m3u8
+#EXTINF:-1 group-title="³¬Çą̊",CCTV-3³¬Çå
+http://223.110.241.204:6610/gitv/live1/G_CCTV-3-HQ/G_CCTV-3-HQ/1.m3u8
+#EXTINF:-1 group-title="³¬Çą̊",CCTV-4³¬Çå
+http://223.110.241.204:6610/gitv/live1/G_CCTV-4-HQ/G_CCTV-4-HQ/1.m3u8
+#EXTINF:-1 group-title="³¬Çą̊",CCTV-5³¬Çå
+http://223.110.241.204:6610/gitv/live1/G_CCTV-5-HQ/G_CCTV-5-HQ/1.m3u8
+#EXTINF:-1 group-title="³¬Çą̊",CCTV-5+³¬Çå
+http://223.110.241.204:6610/gitv/live1/G_CCTV-5PLUS-HQ/G_CCTV-5PLUS-HQ/1.m3u8
+#EXTINF:-1 group-title="³¬Çą̊",CCTV-6³¬Çå
+http://223.110.241.204:6610/gitv/live1/G_CCTV-6-HQ/G_CCTV-6-HQ/1.m3u8
+#EXTINF:-1 group-title="³¬Çą̊",CCTV-7³¬Çå
+http://223.110.241.204:6610/gitv/live1/G_CCTV-7-HQ/G_CCTV-7-HQ/1.m3u8
+#EXTINF:-1 group-title="³¬Çą̊",CCTV-8³¬Çå
+http://223.110.241.204:6610/gitv/live1/G_CCTV-8-HQ/G_CCTV-8-HQ/1.m3u8
+#EXTINF:-1 group-title="³¬Çą̊",CCTV-9³¬Çå
+http://223.110.241.204:6610/gitv/live1/G_CCTV-9/G_CCTV-9/1.m3u8
+#EXTINF:-1 group-title="³¬Çą̊",CCTV-10³¬Çå
+http://223.110.241.204:6610/gitv/live1/G_CCTV-10-HQ/G_CCTV-10-HQ/1.m3u8
+#EXTINF:-1 group-title="³¬Çą̊",CCTV-11³¬Çå
+http://223.110.241.204:6610/gitv/live1/G_CCTV-11-HQ/G_CCTV-11-HQ/1.m3u8
+#EXTINF:-1 group-title="³¬Çą̊",CCTV-12³¬Çå
+http://223.110.241.204:6610/gitv/live1/CCTV-12/CCTV-12/1.m3u8
+#EXTINF:-1 group-title="³¬Çą̊",CCTV-13³¬Çå
+http://223.110.241.204:6610/gitv/live1/G_CCTV-13-HQ/G_CCTV-13-HQ/1.m3u8
+#EXTINF:-1 group-title="³¬Çą̊",CCTV-14³¬Çå
+http://223.110.241.204:6610/gitv/live1/G_CCTV-14/G_CCTV-14/1.m3u8
+#EXTINF:-1 group-title="³¬Çą̊",CCTV-15³¬Çå
+http://223.110.241.204:6610/gitv/live1/G_CCTV-15/G_CCTV-15/1.m3u8
+#EXTINF:-1 group-title="³¬Çą̊",CCTV-NEWS
+http://223.110.241.204:6610/gitv/live1/G_CCTV-NEWS/G_CCTV-NEWS/1.m3u8
+#EXTINF:-1 group-title="³¬Çą̊",ºþÄÏÎÀÊӳ¬Çå-8M
+http://223.110.241.204:6610/gitv/live1/G_HUNAN-CQ/G_HUNAN-CQ/1.m3u8
+#EXTINF:-1 group-title="³¬Çą̊",½­ËÕÎÀÊӳ¬Çå
+http://223.110.241.204:6610/gitv/live1/G_JIANGSU-CQ/G_JIANGSU-CQ/1.m3u8
+#EXTINF:-1 group-title="³¬Çą̊",±±¾©ÎÀÊӳ¬Çå-8M
+http://223.110.241.204:6610/gitv/live1/G_BEIJING-CQ/G_BEIJING-CQ/1.m3u8
+#EXTINF:-1 group-title="³¬Çą̊",Õ㽭ÎÀÊӳ¬Çå
+http://223.110.241.204:6610/gitv/live1/G_ZHEJIANG-CQ/G_ZHEJIANG-CQ/1.m3u8
+#EXTINF:-1 group-title="³¬Çą̊",¶«·½ÎÀÊӳ¬Çå-8M
+http://223.110.241.204:6610/gitv/live1/G_DONGFANG-CQ/G_DONGFANG-CQ/1.m3u8
+#EXTINF:-1 group-title="±êÇą̊",CCTV-1
+http://223.110.241.204:6610/gitv/live1/G_CCTV-1/G_CCTV-1/1.m3u8
+#EXTINF:-1 group-title="±êÇą̊",CCTV-2
+http://223.110.241.204:6610/gitv/live1/G_CCTV-2/G_CCTV-2/1.m3u8
+#EXTINF:-1 group-title="±êÇą̊",CCTV-3
+http://223.110.241.204:6610/gitv/live1/G_CCTV-3-HD/G_CCTV-3-HD/1.m3u8
+#EXTINF:-1 group-title="±êÇą̊",CCTV-5
+http://223.110.241.204:6610/gitv/live1/G_CCTV-5-HD/G_CCTV-5-HD/1.m3u8
+#EXTINF:-1 group-title="±êÇą̊",CCTV-8
+http://223.110.241.204:6610/gitv/live1/G_CCTV-8/G_CCTV-8/1.m3u8
+#EXTINF:-1 group-title="±êÇą̊",CETV-1
+http://223.110.241.204:6610/gitv/live1/G_CETV-1/G_CETV-1/1.m3u8
+#EXTINF:-1 group-title="±êÇą̊",CETV-2
+http://223.110.241.204:6610/gitv/live1/G_CETV-2/G_CETV-2/1.m3u8
+#EXTINF:-1 group-title="±êÇą̊",CETV-4
+http://223.110.241.204:6610/gitv/live1/G_CETV-4/G_CETV-4/1.m3u8
+#EXTINF:-1 group-title="±êÇą̊",CETV-3
+http://223.110.241.204:6610/gitv/live1/G_CETV-3/G_CETV-3/1.m3u8
+#EXTINF:-1 group-title="±êÇą̊",°²»ÕÎÀÊÓ
+http://223.110.241.204:6610/gitv/live1/AHWS/AHWS/1.m3u8
+#EXTINF:-1 group-title="±êÇą̊",ÁÉÄþÎÀÊÓ
+http://223.110.241.204:6610/gitv/live1/LNWS/LNWS/1.m3u8
+#EXTINF:-1 group-title="±êÇą̊",ɽ¶«ÎÀÊÓ
+http://223.110.241.204:6610/gitv/live1/SDWS/SDWS/1.m3u8
+#EXTINF:-1 group-title="±êÇą̊",¹ãÎ÷ÎÀÊÓ
+http://223.110.241.204:6610/gitv/live1/GXWS/GXWS/1.m3u8
+#EXTINF:-1 group-title="±êÇą̊",ÂÃÓÎÎÀÊÓ
+http://223.110.241.204:6610/gitv/live1/LYWS/LYWS/1.m3u8
+#EXTINF:-1 group-title="±êÇą̊",ÖØÇìÎÀÊÓ
+http://223.110.241.204:6610/gitv/live1/G_CHONGQING/G_CHONGQING/1.m3u8
+#EXTINF:-1 group-title="±êÇą̊",ËĴ¨ÎÀÊÓ
+http://223.110.241.204:6610/gitv/live1/SCWS/SCWS/1.m3u8
+#EXTINF:-1 group-title="±êÇą̊",ºÓÄÏÎÀÊÓ
+http://223.110.241.204:6610/gitv/live1/HENAN/HENAN/1.m3u8
+#EXTINF:-1 group-title="±êÇą̊",¶«ÄÏÎÀÊÓ
+http://223.110.241.204:6610/gitv/live1/DNWS/DNWS/1.m3u8
+#EXTINF:-1 group-title="±êÇą̊",Ìì½òÎÀÊÓ
+http://223.110.241.204:6610/gitv/live1/TJWS/TJWS/1.m3u8
+#EXTINF:-1 group-title="±êÇą̊",½­Î÷ÎÀÊÓ
+http://223.110.241.204:6610/gitv/live1/JXWS/JXWS/1.m3u8
+#EXTINF:-1 group-title="±êÇą̊",ºþ±±ÎÀÊÓ
+http://223.110.241.204:6610/gitv/live1/G_HUBEI/G_HUBEI/1.m3u8
+#EXTINF:-1 group-title="±êÇą̊",¼ªÁÖÎÀÊÓ
+http://223.110.241.204:6610/gitv/live1/G_JILIN/G_JILIN/1.m3u8
+#EXTINF:-1 group-title="±êÇą̊",ɽÎ÷ÎÀÊÓ
+http://223.110.241.204:6610/gitv/live1/SXWS/SXWS/1.m3u8
+#EXTINF:-1 group-title="±êÇą̊",¹óÖÝÎÀÊÓ
+http://223.110.241.204:6610/gitv/live1/G_GUIZHOU/G_GUIZHOU/1.m3u8
+#EXTINF:-1 group-title="±êÇą̊",ÇຣÎÀÊÓ
+http://223.110.241.204:6610/gitv/live1/G_QINGHAI/G_QINGHAI/1.m3u8
+#EXTINF:-1 group-title="±êÇą̊",ÄÚÃɹÅÎÀÊÓ
+http://223.110.241.204:6610/gitv/live1/G_NEIMENGGU/G_NEIMENGGU/1.m3u8
+#EXTINF:-1 group-title="±êÇą̊",ÔÆÄÏÎÀÊÓ
+http://223.110.241.204:6610/gitv/live1/G_YUNNAN/G_YUNNAN/1.m3u8
+#EXTINF:-1 group-title="±êÇą̊",ºӱ±ÎÀÊÓ
+http://223.110.241.204:6610/gitv/live1/G_HEBEI/G_HEBEI/1.m3u8
+#EXTINF:-1 group-title="±êÇą̊",ÄþÏÄÎÀÊÓ
+http://223.110.241.204:6610/gitv/live1/G_NINGXIA/G_NINGXIA/1.m3u8
+#EXTINF:-1 group-title="±êÇą̊",Ð½®ÎÀÊÓ
+http://223.110.241.204:6610/gitv/live1/G_XINJIANG/G_XINJIANG/1.m3u8
+#EXTINF:-1 group-title="±êÇą̊",¸ÊËàÎÀÊÓ
+http://223.110.241.204:6610/gitv/live1/G_GANSU/G_GANSU/1.m3u8
+#EXTINF:-1 group-title="±êÇą̊",Î÷²ØÎÀÊÓ
+http://223.110.241.204:6610/gitv/live1/G_XIZANG/G_XIZANG/1.m3u8
+#EXTINF:-1 group-title="±êÇą̊",ÓÅÂþ¿¨ͨ
+http://223.110.241.204:6610/gitv/live1/G_YOUMAN/G_YOUMAN/1.m3u8
+#EXTINF:-1 group-title="±êÇą̊",Õ㽭ÎÀÊÓ
+http://223.110.241.204:6610/gitv/live1/G_ZHEJIANG/G_ZHEJIANG/1.m3u8
+#EXTINF:-1 group-title="±êÇą̊",½­ËÕÎÀÊÓ
+http://223.110.241.204:6610/gitv/live1/JSWS-HD/JSWS-HD/1.m3u8
+#EXTINF:-1 group-title="±êÇą̊",ºþÄÏÎÀÊÓ
+http://223.110.241.204:6610/gitv/live1/G_HUNAN/G_HUNAN/1.m3u8
+#EXTINF:-1 group-title="±êÇą̊",¶«·½ÎÀÊÓ
+http://223.110.241.204:6610/gitv/live1/G_DONGFANG/G_DONGFANG/1.m3u8
+#EXTINF:-1 group-title="±êÇą̊",±±¾©ÎÀÊÓ
+http://223.110.241.204:6610/gitv/live1/G_BEIJING/G_BEIJING/1.m3u8
+#EXTINF:-1 group-title="±êÇą̊",¹㶫ÎÀÊÓ
+http://223.110.241.204:6610/gitv/live1/G_GUANGDONG/G_GUANGDONG/1.m3u8
+#EXTINF:-1 group-title="±êÇą̊",ÉîÛÚÎÀÊÓ
+http://223.110.241.204:6610/gitv/live1/G_SHENZHEN/G_SHENZHEN/1.m3u8
+#EXTINF:-1 group-title="±êÇą̊",ºÚÁú½­ÎÀÊÓ
+http://223.110.241.204:6610/gitv/live1/G_HEILONGJIANG/G_HEILONGJIANG/1.m3u8
+#EXTINF:-1 group-title="±êÇą̊",±øÍÅÎÀÊÓ
+http://223.110.241.204:6610/gitv/live1/G_BINGTUAN/G_BINGTUAN/1.m3u8
+#EXTINF:-1 group-title="±êÇą̊",ÉÂÎ÷ÎÀÊÓ
+http://223.110.241.204:6610/gitv/live1/G_SHANXI/G_SHANXI/1.m3u8
+#EXTINF:-1 group-title="±êÇą̊",ÄϷ½ÎÀÊӣ¨¹㶫£©
+http://223.110.241.204:6610/gitv/live1/G_NANFANG/G_NANFANG/1.m3u8
+#EXTINF:-1 group-title="±êÇą̊",ÏÃÃÅÎÀÊÓ
+http://223.110.241.204:6610/gitv/live1/G_XIAMEN/G_XIAMEN/1.m3u8
+#EXTINF:-1 group-title="±êÇą̊",ɽ¶«ÎÀÊӳ¬Çå
+http://223.110.241.204:6610/gitv/live1/G_SHANDONG-HQ/G_SHANDONG-HQ/1.m3u8
+#EXTINF:-1 group-title="±êÇą̊",ÑӱßÎÀÊÓ
+http://223.110.241.204:6610/gitv/live1/G_YANBIAN/G_YANBIAN/1.m3u8
+#EXTINF:-1 group-title="±êÇą̊",¼μѿ¨ͨ
+http://223.110.241.204:6610/gitv/live1/G_JIAJIA/G_JIAJIA/1.m3u8
+#EXTINF:-1 group-title="±êÇą̊",ɽ¶«½ÌÓýµçÊǪ́
+http://223.110.241.204:6610/gitv/live1/G_SDETV/G_SDETV/1.m3u8
+#EXTINF:-1 group-title="±êÇą̊",°²¶àÎÀÊÓ
+http://223.110.241.204:6610/gitv/live1/G_ANDUO/G_ANDUO/1.m3u8
+#EXTINF:-1 group-title="±êÇą̊",¿¼ÊÔÔÚÏß
+http://223.110.241.204:6610/gitv/live1/G_KAOSHIZX/G_KAOSHIZX/1.m3u8
+#EXTINF:-1 group-title="±êÇą̊",ũÁÖÎÀÊÓ
+http://223.110.241.204:6610/gitv/live1/G_NONGLIN/G_NONGLIN/1.m3u8
+#EXTINF:-1 group-title="±êÇą̊",ÖÃҵƵµÀ
+http://223.110.241.204:6610/gitv/live1/G_ZHIYE/G_ZHIYE/1.m3u8
+#EXTINF:-1 group-title="±êÇą̊",¿µ°ÍÎÀÊÓ
+http://223.110.241.204:6610/gitv/live1/G_KANGBA/G_KANGBA/1.m3u8
+#EXTINF:-1 group-title="±êÇą̊",¾©ÊӾ糡
+http://223.110.241.204:6610/gitv/live1/G_JINGJU/G_JINGJU/1.m3u8
+#EXTINF:-1 group-title="±êÇą̊",ÐÂÓéÀÖ
+http://223.110.241.204:6610/gitv/live1/G_XINYULE/G_XINYULE/1.m3u8
+#EXTINF:-1 group-title="±êÇą̊",¼ÒͥÀí²Æ
+http://223.110.241.204:6610/gitv/live1/G_JIATINGLC/G_JIATINGLC/1.m3u8
+#EXTINF:-1 group-title="±êÇą̊",·¢ÏÖ֮ÂÃ
+http://223.110.241.204:6610/gitv/live1/G_FAXIANZL/G_FAXIANZL/1.m3u8
+#EXTINF:-1 group-title="±êÇą̊",ÞÄ̳´ºÇï
+http://223.110.241.204:6610/gitv/live1/G_YITANCQ/G_YITANCQ/1.m3u8
+#EXTINF:-1 group-title="±êÇą̊",ÀϹÊÊÂ
+http://223.110.241.204:6610/gitv/live1/G_LAOGUSHI/G_LAOGUSHI/1.m3u8
+#EXTINF:-1 group-title="±êÇą̊",ŮÐÔʱÉÐ
+http://223.110.241.204:6610/gitv/live1/G_NVXINGSS/G_NVXINGSS/1.m3u8
+#EXTINF:-1 group-title="±êÇą̊",ÏִúŮÐÔ
+http://223.110.241.204:6610/gitv/live1/G_XIANDAINX/G_XIANDAINX/1.m3u8
+#EXTINF:-1 group-title="±êÇą̊",¸߶û·ò
+http://223.110.241.204:6610/gitv/live1/G_GAOERFU/G_GAOERFU/1.m3u8
+#EXTINF:-1 group-title="±êÇą̊",ְҵָÄÏ
+http://223.110.241.204:6610/gitv/live1/G_ZHIYEZN/G_ZHIYEZN/1.m3u8
+#EXTINF:-1 group-title="±êÇą̊",֤ȯ×ÊѶ
+http://223.110.241.204:6610/gitv/live1/G_ZHENGJUANZX/G_ZHENGJUANZX/1.m3u8
+#EXTINF:-1 group-title="±êÇą̊",Öйú½»ͨƵµÀ
+http://223.110.241.204:6610/gitv/live1/G_ZHONGGUOJT/G_ZHONGGUOJT/1.m3u8
+#EXTINF:-1 group-title="±êÇą̊",¹úѧƵµÀ
+http://223.110.241.204:6610/gitv/live1/G_GUOXUE/G_GUOXUE/1.m3u8
+#EXTINF:-1 group-title="±êÇą̊",:Çò
+http://223.110.241.204:6610/gitv/live1/G_LANQIU/G_LANQIU/1.m3u8
+#EXTINF:-1 group-title="±êÇą̊",¿¨¿áÉٶù
+http://223.110.241.204:6610/gitv/live1/G_KAKU/G_KAKU/1.m3u8
+#EXTINF:-1 group-title="±êÇą̊",½ðӥ¿¨ͨ
+http://223.110.241.204:6610/gitv/live1/G_JINYING/G_JINYING/1.m3u8
+#EXTINF:-1 group-title="±êÇą̊",ìŶ¯¿¨ͨ
+http://223.110.241.204:6610/gitv/live1/G_XUANDONG/G_XUANDONG/1.m3u8
+#EXTINF:-1 group-title="½­ËǪ̃",½­ËÕÎÀÊӳ¬Çå
+http://223.110.241.204:6610/gitv/live1/G_JIANGSU-CQ/G_JIANGSU-CQ/1.m3u8
+#EXTINF:-1 group-title="½­ËǪ̃",½­ËսÌÓý
+http://223.110.241.204:6610/gitv/live1/G_JSJY/G_JSJY/1.m3u8
+#EXTINF:-1 group-title="½­ËǪ̃",½­ËճÇÊÐ
+http://223.110.241.204:6610/gitv/live1/G_JSCS/G_JSCS/1.m3u8
+#EXTINF:-1 group-title="½­ËǪ̃",½­Ëչ«¹²
+http://223.110.241.204:6610/gitv/live1/G_JSGG/G_JSGG/1.m3u8
+#EXTINF:-1 group-title="½­ËǪ̃",½­ËÕӰÊÓ
+http://223.110.241.204:6610/gitv/live1/G_JSYS/G_JSYS/1.m3u8
+#EXTINF:-1 group-title="½­ËǪ̃",½­ËÕÐÝÏÐÌåÓý
+http://223.110.241.204:6610/gitv/live1/G_JSTY/G_JSTY/1.m3u8
+#EXTINF:-1 group-title="½­ËǪ̃",½­ËÕ×ÛÒÕ
+http://223.110.241.204:6610/gitv/live1/G_JSZY/G_JSZY/1.m3u8
+#EXTINF:-1 group-title="½­ËǪ̃",ºÃÏ���
+http://223.110.241.204:6610/gitv/live1/G_HAOXIANG/G_HAOXIANG/1.m3u8
+#EXTINF:-1 group-title="½­ËǪ̃",ÄϾ©ÐÂÎÅ×ۺÏ
+http://223.110.241.204:6610/gitv/live1/G_NJXW/G_NJXW/1.m3u8
+#EXTINF:-1 group-title="½­ËǪ̃",ÄϾ©¿ƽÌ
+http://223.110.241.204:6610/gitv/live1/G_NJJK/G_NJJK/1.m3u8
+#EXTINF:-1 group-title="½­ËǪ̃",ÄϾ©ʮ°Ë
+http://223.110.241.204:6610/gitv/live1/G_NJSB/G_NJSB/1.m3u8
